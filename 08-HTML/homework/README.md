@@ -1,5 +1,3 @@
-# Homework: HTML
-
 Ahora que nos ha visto crear un archivo HTML y una hoja de estilo externa, crearas una propia.
 
 ## Ejercicio I
@@ -11,7 +9,7 @@ I. Cree una página HTML básica.
   B. Agregue un elemento de título y asigne a su página el título de "Tarea HTML de [Su nombre]".
   C. En el cuerpo, crea tres divs.
     1. En el primer div crea:
-      * un elemento h1 que contiene [Tu nombre].
+      * un elementonpm install h1 que contiene [Tu nombre].
       * un elemento h3 que contiene "Henry".
       * un elemento h4 que contiene "tarea de HTML / CSS".
     2. En el segundo div crea:
