@@ -57,7 +57,7 @@ Para acceder al elemento, escribiremos el nombre o la variable de matriz, seguid
 ```javascript
 const nombresEstudiantes = ['Martin', 'Antonio', 'Sara', 'Samuel'];
 
-console.log(nombresEstudiantes[1]);  // 'Antonio'
+console.log(nombresEstudiantes[1]);  // 'Antonio'uh
 ```
 
 Para acceder dinámicamente al último elemento de la matriz, utilizaremos el método `.length`. En nuestra matriz `nombresEstudiantes`, la longitud es 4. Sabemos que el primer elemento siempre será 0, y cada elemento posterior se desplaza sobre un número. Entonces, en nuestro ejemplo, el último elemento tiene un índice de 3. Usando nuestra propiedad de longitud mostraremos cómo se hace cuando no sabemos el número de elementos en una matriz:

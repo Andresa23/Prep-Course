@@ -197,7 +197,7 @@ function doWhile(numero) {
    x = x + 1; 
  } while(x < 8); 
    return numero; 
-   }
+   } 
 
 
 // No modificar nada debajo de esta línea
