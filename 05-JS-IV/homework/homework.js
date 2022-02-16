@@ -147,8 +147,7 @@ function agregarMetodoCalculoDescuento(producto) {
   // Este método debe multiplicar el "precio" del "producto" ("producto.precio" o "producto[precio]") y "porcentajeDeDescuento" para obtener el descuento
   // El método resta el descuento del precio y devuelve el precio con descuento
   // Devuelve el objeto "producto" al final de la función
-  // Ejemplo:
-  //2000 - 400 = 1600 
+  // Ejemplo: 
   // producto.precio -> 20
   // producto.porcentajeDeDescuento -> 0.2 (o simplemente ".2")
   // producto.calcularPrecioDescuento() -> 20 - (20 * 0.2)
@@ -161,7 +160,7 @@ function agregarMetodoCalculoDescuento(producto) {
   
    return producto;
 }
-
+  
 // No modificar nada debajo de esta línea
 // --------------------------------
 
